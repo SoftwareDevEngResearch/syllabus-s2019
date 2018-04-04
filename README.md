@@ -173,3 +173,7 @@ I am committed to the principle of universal learning. This mean that our classr
 
 For any student with particular needs:
 > Accommodations for students with disabilities are determined and approved by Disability Access Services (DAS). If you, as a student, believe you are eligible for accommodations but have not obtained approval please contact DAS immediately at 541-737-4098 or at <http://ds.oregonstate.edu>. DAS notifies students and faculty members of approved academic accommodations and coordinates implementation of those accommodations. While not required, students and faculty members are encouraged to discuss details of the implementation of individual accommodations.
+
+## Credit
+
+This syllabus website and content is based on Aidan Feldman's [Advanced JavaScript class](https://advanced-js.github.io/syllabus/).
