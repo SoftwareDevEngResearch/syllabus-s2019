@@ -70,9 +70,6 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 ### Class 1
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Are you new to front-end web development? Here&#39;s a secret: no one else really knows what they&#39;re doing either.</p>&mdash; Nicolas (@necolas) <a href="https://twitter.com/necolas/status/291978260433219584">January 17, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 1. Introduction
     * Put name on sticky note on back of monitor
     * Discuss what the class is going to cover
