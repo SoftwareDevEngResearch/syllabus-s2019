@@ -108,7 +108,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 ### Recommended Reading
 
-*
+* [Scipy Lecture Notes](http://www.scipy-lectures.org)
 
 #### Specific Topics
 
