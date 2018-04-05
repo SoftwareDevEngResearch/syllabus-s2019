@@ -68,7 +68,7 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 ## Course Outline
 
-### Class 1
+### Class 1: <https://softwaredevengresearch.github.io/getting-started/>
 
 1. Introduction
     * Put name on sticky note on back of monitor
