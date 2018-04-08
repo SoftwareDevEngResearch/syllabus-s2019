@@ -68,26 +68,33 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 ## Course Outline
 
-### Class 1: <https://softwaredevengresearch.github.io/getting-started/>
+### Class 1:
 
-1. Introduction
-    * Put name on sticky note on back of monitor
+Lecture slides: <https://softwaredevengresearch.github.io/getting-started/>
+
+1. Introduction to course
     * Discuss what the class is going to cover
     * Everyone introduce themselves
         * Name
         * What you "do"
         * What are your goals for the class?
-1. Setup
+2. Setup: Git
     * How many people are comfortable with Git/GitHub?
-    * Install [GitHub Desktop](https://desktop.github.com/)
+    * Install Git or [GitHub Desktop](https://desktop.github.com/)
         * If you are comfortable with Git already, you can skip this.
     * Sign up for GitHub (if you didn't already)
+3. Introduction to local version control via Git
 
 #### Homework
 
-* Join [the chat room](https://gitter.im/advanced-js/syllabus).
+* Join [the chat room](https://gitter.im/SoftwareDevEngResearch/Lobby).
 * [Set up your GitHub profile.](https://github.com/settings/profile)
-* Read .
+* **Due by Friday 13 April:** project proposal. Please submit this via the [`course-projects` repository](https://github.com/SoftwareDevEngResearch/course-projects) in the GitHub organization (you must have accepted the invitation to the organization), in the `proposals` folder. Name your document `LastName-project-proposal.md`; notice the `.md` file extension, which indicates a Markdown file. ([Markdown](https://guides.github.com/features/mastering-markdown/) is a lightweight plaintext format used commonly for things like READMEs.)
+  * Please describe the functionality of your intended software project, including who might use it. This includes what the software will actually do—will it simulate something, process data, or something else?—the overall components you expect to design, and expected inputs/outputs.
+  * Most packages should build on some existing methodology, so cite papers as appropriate. Also describe how this builds on any prior work you've done, if relevant. Make it clear how this software package will be different from existing work (yours or otherwise).
+  * You should talk about any packages you expect to depend on (if known).
+  * It is fine if you plan to develop a graphical user interface for your software package, but that should not be the main or primary contribution.
+  * Proposals should be one or two pages long.
 
 
 ## Resources
