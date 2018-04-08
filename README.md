@@ -68,7 +68,7 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 ## Course Outline
 
-### Class 1:
+### Class 1: Introduction, Version Control
 
 Lecture slides: <https://softwaredevengresearch.github.io/getting-started/>
 
