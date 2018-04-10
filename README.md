@@ -90,7 +90,12 @@ Lecture slides: <https://softwaredevengresearch.github.io/getting-started/>
 * Join [the chat room](https://gitter.im/SoftwareDevEngResearch/Lobby).
 * [Set up your GitHub profile.](https://github.com/settings/profile)
 * **Due by Friday 13 April:** project proposal. Please submit this via the [`course-projects` repository](https://github.com/SoftwareDevEngResearch/course-projects) in the GitHub organization (you must have accepted the invitation to the organization), in the `proposals` folder. Name your document `LastName-project-proposal.md`; notice the `.md` file extension, which indicates a Markdown file. ([Markdown](https://guides.github.com/features/mastering-markdown/) is a lightweight plaintext format used commonly for things like READMEs.)
-  * **Submission process**: Use the "Create new file" button in the [`proposals` folder via the web interface](https://github.com/SoftwareDevEngResearch/course-projects/tree/master/proposals) to submit your proposal as a pull request. (The "Upload files" button will not work, since you do not have write permissions for this repository.)
+  * **Submission process**: Use the "Create new file" button in the [`proposals` folder via the web interface](https://github.com/SoftwareDevEngResearch/course-projects/tree/master/proposals) to submit your proposal as a pull request. (The "Upload files" button will not work, since you do not have write permissions for this repository.) Alternatively, you can:
+    1. Fork the repo into your own account (use the "Fork" button)
+    2. Clone a local copy to your computer
+    3. Add the file in the proposals folder, and commit this addition
+    4. Push the change to your version of the repo (`git push`)
+    5. On your repo at GitHub, submit a new pull request back to the original “upstream” repo.
   * Please describe the functionality of your intended software project, including who might use it. This includes what the software will actually do—will it simulate something, process data, or something else?—the overall components you expect to design, and expected inputs/outputs.
   * Most packages should build on some existing methodology, so cite papers as appropriate. Also describe how this builds on any prior work you've done, if relevant. Make it clear how this software package will be different from existing work (yours or otherwise).
   * You should talk about any packages you expect to depend on (if known).
