@@ -70,7 +70,7 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 ### Class 1: Introduction, Version Control
 
-Lecture slides: <https://softwaredevengresearch.github.io/getting-started/>
+**Lecture slides:** <https://softwaredevengresearch.github.io/getting-started/>
 
 1. Introduction to course
     * Discuss what the class is going to cover
@@ -102,6 +102,20 @@ Lecture slides: <https://softwaredevengresearch.github.io/getting-started/>
   * It is fine if you plan to develop a graphical user interface for your software package, but that should not be the main or primary contribution.
   * Proposals should be one or two pages long.
 
+### Class 2: Remote Version Control, Licensing & Copyright
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/remote-version-control>
+
+1. Introduction to GitHub and remote version control
+    * Creating a repo
+    * Cloning, pushing, fetching, merging, and pulling
+    * Pull Requests and working on projects collaboratively
+2. Copyright & Software Licensing
+    * Copyright basics (I Am Not A Lawyer)
+    * Types of Software Licenses
+    * Creative Commons
+    * Other Intellectual Property issues
+
 
 ## Resources
 
@@ -131,8 +145,6 @@ This class assumes you are confident with this material, but in case you need a 
 
 ### Tools
 
-* debugging:
-    *
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 
