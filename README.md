@@ -116,6 +116,32 @@ In addition to the shorter assignments, the main focus of the course will be a p
     * Creative Commons
     * Other Intellectual Property issues
 
+### Class 3: Packages and Testing
+
+** Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-testing>
+
+1. Structuring (Python) programs
+    * Package directory structure
+    * Absolute and relative module imports
+    * Useful packages in the Python standard library
+    * Useful third-party packages for scientific computing
+2. In class activity:
+    * create the repo for your project in the class organization, and fork to your account.
+    * Clone it locally
+    * Brainstorm your necessary modules; create the empty files.
+    * Commit and push your work, then submit to the upstream fork.
+3. Testing your software
+    * Importance of testing
+    * What and how to test
+    * Types of tests
+    * using [`pytest`](https://docs.pytest.org/en/latest/) to automate testing
+    * Test-Driven Development
+
+#### Homework
+
+1. Create (at minimum) three functions in your first module (more is fine!)
+2. Create edge and interior tests for these functions (make sure they pass!)
+3. By Monday, submit your changes as a Pull Request to your upstream repo. I will assign partners to review your PRs.
 
 ## Resources
 
