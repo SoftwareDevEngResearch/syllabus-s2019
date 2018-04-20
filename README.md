@@ -118,7 +118,7 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 ### Class 3: Packages and Testing
 
-** Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-testing>
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-testing>
 
 1. Structuring (Python) programs
     * Package directory structure
