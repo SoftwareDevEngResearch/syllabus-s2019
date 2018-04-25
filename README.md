@@ -68,7 +68,7 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 ## Course Outline
 
-### Class 1: Introduction, Version Control
+### Lecture 1: Introduction, Version Control
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/getting-started/>
 
@@ -102,7 +102,7 @@ In addition to the shorter assignments, the main focus of the course will be a p
   * It is fine if you plan to develop a graphical user interface for your software package, but that should not be the main or primary contribution.
   * Proposals should be one or two pages long.
 
-### Class 2: Remote Version Control, Licensing & Copyright
+### Lecture 2: Remote Version Control, Licensing & Copyright
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/remote-version-control>
 
@@ -116,7 +116,7 @@ In addition to the shorter assignments, the main focus of the course will be a p
     * Creative Commons
     * Other Intellectual Property issues
 
-### Class 3: Packages and Testing
+### Lecture 3: Packages and Testing
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-testing>
 
@@ -142,6 +142,10 @@ In addition to the shorter assignments, the main focus of the course will be a p
 1. Create (at minimum) three functions in your first module (more is fine!)
 2. Create edge and interior tests for these functions (make sure they pass!)
 3. By Monday, submit your changes as a Pull Request to your upstream repo. I will assign partners to review your PRs.
+
+### Lecture 4: Test Coverage, Continuous Integration, and Documentation
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-CI-documentation>
 
 ## Resources
 
