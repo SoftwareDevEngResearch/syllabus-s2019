@@ -147,6 +147,25 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-CI-documentation>
 
+1. Test coverage
+    * Using `pytest-cov`
+2. Continuous integration
+    * Using Travis CI
+3. Documentation
+    * Value of documentation
+    * Types of documentation
+    * Comments
+    * Self-documenting code
+    * Docstrings
+
+#### Homework
+
+For Monday 30 April:
+1. Set your project up with Travis CI to run the test suite (may have been completed in class)
+2. Add comments/docstrings to your code if you haven't already. Revise your code to follow more clear naming practices if needed. Make sure your pull requests pass all your tests!
+3. Continue developing your software projects
+
+
 ## Resources
 
 ### Required Reading
