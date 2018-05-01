@@ -191,7 +191,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 #### Specific Topics
 
-*
+* NumPy's [`allclose` function](https://docs.scipy.org/doc/numpy/reference/generated/numpy.allclose.html)
 
 #### Other Lists
 
