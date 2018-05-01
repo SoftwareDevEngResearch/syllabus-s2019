@@ -165,6 +165,12 @@ For Monday 30 April:
 2. Add comments/docstrings to your code if you haven't already. Revise your code to follow more clear naming practices if needed. Make sure your pull requests pass all your tests!
 3. Continue developing your software projects
 
+### Lecture 5: Intro to Julia
+
+Guest lecture from [Prof. Cory Simon](https://simonensemble.github.io).
+
+Introduction to the Julia language, via a live coding demo of a Monte Carlo simulation of Buffon's Needle: https://simonensemble.github.io/2018/04/11/buffon/
+
 
 ## Resources
 
