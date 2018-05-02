@@ -171,6 +171,9 @@ Guest lecture from [Prof. Cory Simon](https://simonensemble.github.io).
 
 Introduction to the Julia language, via a live coding demo of a Monte Carlo simulation of Buffon's Needle: https://simonensemble.github.io/2018/04/11/buffon/
 
+### Lecture 6: Intro to Parallel Programming
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-parallel-computing>
 
 ## Resources
 
