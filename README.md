@@ -175,6 +175,10 @@ Introduction to the Julia language, via a live coding demo of a Monte Carlo simu
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-parallel-computing>
 
+### Lecture 7: Classes and Objects (in Python)
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-classes-objects/>
+
 ## Resources
 
 ### Required Reading
