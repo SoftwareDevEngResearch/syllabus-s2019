@@ -179,6 +179,10 @@ Introduction to the Julia language, via a live coding demo of a Monte Carlo simu
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-classes-objects/>
 
+### Lecture 8: Packaging and Distributing your Software
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-distribution/>
+
 ## Resources
 
 ### Required Reading
