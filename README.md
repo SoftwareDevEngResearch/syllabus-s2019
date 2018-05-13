@@ -203,6 +203,11 @@ This class assumes you are confident with this material, but in case you need a 
 #### Specific Topics
 
 * NumPy's [`allclose` function](https://docs.scipy.org/doc/numpy/reference/generated/numpy.allclose.html)
+* ["Inside the Cheeseshop: How Python Packaging Works" (video)](https://www.youtube.com/watch?v=AQsZsgJ30AE)
+* ["Beyond Unit Testing: Taking Your Testing to the Next Level (video)"](https://www.youtube.com/watch?v=MYucYon2-lk)
+* ["WHAT IS THIS MESS?" - Writing tests for pre-existing code bases" (video)](https://www.youtube.com/watch?v=LDdUuoI_lIg)
+* [Faster Python Programs: Measure, Don't Guess (3-hour video tutorial)](https://www.youtube.com/watch?v=DGrS0uwMuHY)
+* [Foundations of Numerical Computing in Python (3-hour video tutorial)](https://www.youtube.com/watch?v=aGGbnMyeZs0)
 
 #### Other Lists
 
@@ -222,14 +227,6 @@ This class assumes you are confident with this material, but in case you need a 
 * GitHub Pages
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
-
-### Reference
-
-*
-
-### More Examples
-
-*
 
 ## Grading
 
