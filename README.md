@@ -183,6 +183,12 @@ Introduction to the Julia language, via a live coding demo of a Monte Carlo simu
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-distribution/>
 
+### Lecture 9:
+
+Link to video: ["Performance Python: Seven Strategies for Optimizing Your Numerical Code"](https://www.youtube.com/watch?v=zQeYx87mfyw) by [Jake VanderPlas](http://vanderplas.com)
+
+Link to Jupyter notebook: <https://gist.github.com/jakevdp/256c3ad937af9ec7d4c65a29e5b6d454>
+
 ## Resources
 
 ### Required Reading
@@ -204,6 +210,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 * NumPy's [`allclose` function](https://docs.scipy.org/doc/numpy/reference/generated/numpy.allclose.html)
 * ["Inside the Cheeseshop: How Python Packaging Works" (video)](https://www.youtube.com/watch?v=AQsZsgJ30AE)
+* [Python Packaging Guide](https://packaging.python.org)
 * ["Beyond Unit Testing: Taking Your Testing to the Next Level (video)"](https://www.youtube.com/watch?v=MYucYon2-lk)
 * ["WHAT IS THIS MESS?" - Writing tests for pre-existing code bases" (video)](https://www.youtube.com/watch?v=LDdUuoI_lIg)
 * [Faster Python Programs: Measure, Don't Guess (3-hour video tutorial)](https://www.youtube.com/watch?v=DGrS0uwMuHY)
