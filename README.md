@@ -183,11 +183,15 @@ Introduction to the Julia language, via a live coding demo of a Monte Carlo simu
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-distribution/>
 
-### Lecture 9:
+### Lecture 9: Optimizing Numerical Code in Python
 
 Link to video: ["Performance Python: Seven Strategies for Optimizing Your Numerical Code"](https://www.youtube.com/watch?v=zQeYx87mfyw) by [Jake VanderPlas](http://vanderplas.com)
 
 Link to Jupyter notebook: <https://gist.github.com/jakevdp/256c3ad937af9ec7d4c65a29e5b6d454>
+
+### Lecture 10: Files and Command-line Inputs in Python
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-files-commandline/>
 
 ## Resources
 
