@@ -193,6 +193,10 @@ Link to Jupyter notebook: <https://gist.github.com/jakevdp/256c3ad937af9ec7d4c65
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-files-commandline/>
 
+### Lecture 11: Open Science, Software Citation, and Reproducibility Best Practices
+
+**Lecture slides:** <https://github.com/SoftwareDevEngResearch/syllabus/blob/gh-pages/lecture-open-citation-repro.pdf>
+
 ## Resources
 
 ### Required Reading
