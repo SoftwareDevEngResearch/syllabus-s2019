@@ -5,15 +5,14 @@ permalink: /
 
 # <img src="assets/logo.svg" alt="class logo" class="logo"/> Software Development for Engineering Research syllabus
 
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/SoftwareDevEngResearch/syllabus/blob/gh-pages/meta.md) document.***
+***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/SoftwareDevEngResearch/syllabus-s2019/blob/gh-pages/meta.md) document.***
 
-* **Course:** [ME 599](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=ME&coursenumber=599)
+* **Course:** ME 599, CRN 57683
 * **Instructor:** Kyle Niemeyer, [kyle.niemeyer@oregonstate.edu](mailto:kyle.niemeyer@oregonstate.edu)
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SoftwareDevEngResearch/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-        * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
-    * Look through and create [issues](https://github.com/SoftwareDevEngResearch/syllabus/issues)
-   * [Email](mailto:kyle.niemeyer@oregonstate.edu) for 1-on-1 help, or to set up a time to meet using <https://calendly.com/kyle-niemeyer>
+    * We will use Slack for most communication in the class; log in to the `class-me599-003-sp19` workspace at https://oregonstate.enterprise.slack.com.
+    * Look through and create [issues](https://github.com/SoftwareDevEngResearch/syllabus-s2019/issues)
+    * [Email](mailto:kyle.niemeyer@oregonstate.edu) for 1-on-1 help, or to set up a time to meet using <https://calendly.com/kyle-niemeyer>. However, messaging through Slack is your best bet.
 
 ## Course Description
 
@@ -38,7 +37,7 @@ These won't be enforced by the instructor, but you will be pretty lost without u
 
 ## Course Overview
 
-We will dive into the nuances of JavaScript, how prototypal inheritance compares to classical inheritance, and how this can be used to build dynamic and complex web applications.  Modern tools like jQuery and BackboneJS will be discussed, but students will learn the building blocks of these frameworks and after this course be able to understand what is happening under the hood.  The focus will be on development for browsers, though most applies to other systems like Node.js, Phonegap, etc.  Topics covered include:
+We will dive into topics related to developing research software packages, primarily using Python, following best practices. You will each develop a new package over the course of the term that supports research in your particular area of expertise. Topics covered include:
 
 * Structuring programs, modular/functional programming
 * Using classes, objects, and arrays
@@ -87,10 +86,10 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 #### Homework
 
-* Join [the chat room](https://gitter.im/SoftwareDevEngResearch/Lobby).
-* [Set up your GitHub profile.](https://github.com/settings/profile)
-* **Due by Friday 13 April:** project proposal. Please submit this via the [`course-projects` repository](https://github.com/SoftwareDevEngResearch/course-projects) in the GitHub organization (you must have accepted the invitation to the organization), in the `proposals` folder. Name your document `LastName-project-proposal.md`; notice the `.md` file extension, which indicates a Markdown file. ([Markdown](https://guides.github.com/features/mastering-markdown/) is a lightweight plaintext format used commonly for things like READMEs.)
-  * **Submission process**: Use the "Create new file" button in the [`proposals` folder via the web interface](https://github.com/SoftwareDevEngResearch/course-projects/tree/master/proposals) to submit your proposal as a pull request. (The "Upload files" button will not work, since you do not have write permissions for this repository.) Alternatively, you can:
+* Join the [Slack chat room](https://oregonstate.enterprise.slack.com): workspace `class-me599-003-sp19`.
+* Sign up for GitHub and [set up your profile.](https://github.com/settings/profile)
+* **Due by Friday 12 April:** project proposal. Please submit this via the [`course-projects` repository](https://github.com/SoftwareDevEngResearch/course-projects-s2019) in the GitHub organization (you must have accepted the invitation to the organization), in the `proposals` folder. Name your document `LastName-project-proposal.md`; notice the `.md` file extension, which indicates a Markdown file. ([Markdown](https://guides.github.com/features/mastering-markdown/) is a lightweight plaintext format used commonly for things like READMEs.)
+  * **Submission process**: Use the "Create new file" button in the [`proposals` folder via the web interface](https://github.com/SoftwareDevEngResearch/course-projects-s2019/tree/master/proposals) to submit your proposal as a pull request. (The "Upload files" button will not work, since you do not have write permissions for this repository.) Alternatively, you can:
     1. Fork the repo into your own account (use the "Fork" button)
     2. Clone a local copy to your computer
     3. Add the file in the proposals folder, and commit this addition
@@ -102,6 +101,7 @@ In addition to the shorter assignments, the main focus of the course will be a p
   * It is fine if you plan to develop a graphical user interface for your software package, but that should not be the main or primary contribution.
   * Proposals should be one or two pages long.
 
+<!--
 ### Lecture 2: Remote Version Control, Licensing & Copyright
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/remote-version-control>
@@ -197,6 +197,8 @@ Link to Jupyter notebook: <https://gist.github.com/jakevdp/256c3ad937af9ec7d4c65
 
 **Lecture slides:** <https://github.com/SoftwareDevEngResearch/syllabus/blob/gh-pages/lecture-open-citation-repro.pdf>
 
+-->
+
 ## Resources
 
 ### Required Reading
@@ -250,17 +252,15 @@ This class assumes you are confident with this material, but in case you need a 
 
 You are expected to discuss issues or concerns with assignment/project grades with me within one week after a grade is returned.
 
-## Statements on Plagiarism
+## Academic Honesty
 
-### Oregon State
+It is my expectation that any work submitted for this course is a fair and accurate representation of your own abilities and efforts, or in the case of team work, those of the team. Evidence to the contrary will prompt investigation and any dishonest acts will be dealt with accordingly.
 
 > **Academic or Scholarly Dishonesty** is defined as an act of deception in which a Student seeks to claim credit for the work or effort of another person, or uses unauthorized materials or fabricated information in any academic work or research, either through the Student's own efforts or the efforts of another.
 
 For more information about academic integrity and relevant University policies/procedures, please refer to the [Student Conduct web site](http://studentlife.oregonstate.edu/studentconduct) and the [section on Academic Regulations](http://catalog.oregonstate.edu/ChapterDetail.aspx?key=75#Section2883) in the OSU Schedule of Classes. If you have any questions or concerns about this policy, **don't hesitate to contact me**.
 
-### Instructor
-
-It is my expectation that any work submitted for this course is a fair and accurate representation of your own abilities and efforts, or in the case of team work, those of the team. Evidence to the contrary will prompt investigation and any dishonest acts will be dealt with accordingly.
+### More info:
 
 From Aidan Feldman's [Advanced Javascript class](https://advanced-js.github.io/syllabus/):
 > Reuse and building upon ideas or code are major parts of modern software development. As a professional programmer you will never write anything from scratch. This class is structured such that all solutions are public. You are encouraged to learn from the work of your peers. I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they are simply wasting their time and money taking this class.
@@ -273,6 +273,12 @@ I am committed to the principle of universal learning. This mean that our classr
 
 For any student with particular needs:
 > Accommodations for students with disabilities are determined and approved by Disability Access Services (DAS). If you, as a student, believe you are eligible for accommodations but have not obtained approval please contact DAS immediately at 541-737-4098 or at <http://ds.oregonstate.edu>. DAS notifies students and faculty members of approved academic accommodations and coordinates implementation of those accommodations. While not required, students and faculty members are encouraged to discuss details of the implementation of individual accommodations.
+
+**Culture of respect:** I believe in the creation and maintenance of a more inclusive, welcoming university that is safe for all students, faculty, and staff. I will provide care and support to community members who may be negatively affected by bias incidents through our Bias Incident Response Process, which is supported by the [OSU Office of Institutional Diversity (OID)](https://diversity.oregonstate.edu/bias-incident-response).
+
+**Basic needs:** Any student who has difficulty affording groceries or accessing sufficient food to eat every day, or who lacks a safe and stable place to live, and believes this may affect their performance in the course, is urged to contact the [OSU Human Services Resource Center (HSRC)](https://studentlife.oregonstate.edu/hsrc/other-resources/osu-basic-needs-statement) for support (541-737-3747, <hsrc@oregonstate.edu>).
+
+**Mental health:** Diminished mental health, including significant stress, mood changes, excessive worry, or problems with eating and/or sleeping can interfere with optimal academic performance. The source of symptoms might be strictly related to your course work; if so, please speak with me. However, problems with relationships, family worries, loss, or a personal struggle or crisis can also contribute to decreased academic performance. [OSU Counseling and Psychological Services (CAPS)](https://counseling.oregonstate.edu) offers free, confidential psychological services to help you manage personal challenges that may threaten your well-being.
 
 ## Credit
 
