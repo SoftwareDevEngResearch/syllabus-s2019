@@ -101,7 +101,6 @@ In addition to the shorter assignments, the main focus of the course will be a p
   * It is fine if you plan to develop a graphical user interface for your software package, but that should not be the main or primary contribution.
   * Proposals should be one or two pages long.
 
-<!---
 ### Lecture 2: Remote Version Control, Licensing & Copyright
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/remote-version-control>
@@ -115,6 +114,8 @@ In addition to the shorter assignments, the main focus of the course will be a p
     * Types of Software Licenses
     * Creative Commons
     * Other Intellectual Property issues
+
+<!---
 
 ### Lecture 3: Packages and Testing
 
