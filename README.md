@@ -115,6 +115,10 @@ In addition to the shorter assignments, the main focus of the course will be a p
     * Creative Commons
     * Other Intellectual Property issues
 
+#### Extra reading:
+
+ - [Blog post about relicensing yt from GPL to BSD](https://blog.yt-project.org/post/Relicensing/)
+
 <!---
 
 ### Lecture 3: Packages and Testing
