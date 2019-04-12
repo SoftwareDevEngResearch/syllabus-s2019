@@ -123,17 +123,17 @@ In addition to the shorter assignments, the main focus of the course will be a p
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-testing>
 
-1. Structuring (Python) programs
-    * Package directory structure
-    * Absolute and relative module imports
-    * Useful packages in the Python standard library
-    * Useful third-party packages for scientific computing
-3. Testing your software
+1. Testing your software
     * Importance of testing
     * What and how to test
     * Types of tests
     * using [`pytest`](https://docs.pytest.org/en/latest/) to automate testing
     * Test-Driven Development
+2. Structuring (Python) programs
+    * Package directory structure
+    * Absolute and relative module imports
+    * Useful packages in the Python standard library
+    * Useful third-party packages for scientific computing
 
 #### Homework
 
