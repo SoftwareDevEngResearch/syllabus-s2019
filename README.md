@@ -52,18 +52,56 @@ We will dive into topics related to developing research software packages, prima
 * Effective software documentation
 * Writing & publishing about computational research
 * Deploying & sharing software; licenses & copyright
+* Introduction to high-performance computing (HPC)
 
 Topics will be demonstrated through live-code examples/slides. Additional exercises will completed in-class.
 
 ## Homework/Projects
 
-All assignments will be listed within the [Course Outline](#course-outline).
-
-Approximately three to five short assignments will be given. Working together on assignments is encouraged, but you are expected to submit original work—not to copy work from other students, past students, solution manuals, etc. Any plagiarized, copied assignment problems, or copied electronic files will not be counted for any student involved. **Late assignments will not be accepted without prior approval.**
-
 ### Project
 
-In addition to the shorter assignments, the main focus of the course will be a project that involves developing a new software package targeted at your own research area, and ideally something you would use towards your thesis research. All of the concepts discussed in the class, including testing, documentation, and open sharing of the software will be applied to the project.
+The main focus of the course will be a project that involves developing a new software package targeted at your own research area, and ideally something you would use towards your thesis research. All of the concepts discussed in the class, including testing, documentation, and open sharing of the software will be applied to the project.
+
+All assignments will relate to this project in some way, and will be listed here.
+
+### Assignments
+
+Working together on assignments is encouraged, but you are expected to submit original work—not to copy work from other students, past students, solution manuals, etc. Any plagiarized, copied assignment problems, or copied electronic files will not be counted for any student involved. **Late assignments will not be accepted without prior approval.**
+
+#### Week 1:
+
+* Join the [Slack chat room](https://oregonstate.enterprise.slack.com): workspace `class-me599-003-sp19`.
+* Sign up for GitHub and [set up your profile.](https://github.com/settings/profile)
+* **Due by Friday 12 April:** project proposal. Please submit this via the [`course-projects` repository](https://github.com/SoftwareDevEngResearch/course-projects-s2019) in the GitHub organization (you must have accepted the invitation to the organization), in the `proposals` folder. Name your document `LastName-project-proposal.md`; notice the `.md` file extension, which indicates a Markdown file. ([Markdown](https://guides.github.com/features/mastering-markdown/) is a lightweight plaintext format used commonly for things like READMEs.)
+  * **Submission process**: Use the "Create new file" button in the [`proposals` folder via the web interface](https://github.com/SoftwareDevEngResearch/course-projects-s2019/tree/master/proposals) to submit your proposal as a pull request. (The "Upload files" button will not work, since you do not have write permissions for this repository.) Alternatively, you can:
+    1. Fork the repo into your own account (use the "Fork" button)
+    2. Clone a local copy to your computer
+    3. Add the file in the proposals folder, and commit this addition
+    4. Push the change to your version of the repo (`git push`)
+    5. On your repo at GitHub, submit a new pull request back to the original “upstream” repo.
+  * Please describe the functionality of your intended software project, including who might use it. This includes what the software will actually do—will it simulate something, process data, or something else?—the overall components you expect to design, and expected inputs/outputs.
+  * Most packages should build on some existing methodology, so cite papers as appropriate. Also describe how this builds on any prior work you've done, if relevant. Make it clear how this software package will be different from existing work (yours or otherwise).
+  * You should talk about any packages you expect to depend on (if known).
+  * It is fine if you plan to develop a graphical user interface for your software package, but that should not be the main or primary contribution.
+  * Proposals should be one or two pages long.
+
+#### Weeks 2-3:
+
+Complete by **Wednesday 24 April**:
+
+* Create your project repo
+  1. Name your software package, create the repo for your project in the class organization, and fork to your account.
+  2. Clone your fork locally
+  3. Brainstorm your necessary modules; create the empty files.
+  4. Commit and push your work to your fork, then submit to the upstream repo via a pull request.
+  5. Notify your code review partner
+* Begin writing code and testing it
+  1. Create (at minimum) three functions in your first module (more is fine!)
+  2. Create edge and interior tests for these functions (make sure they pass!)
+  3. Submit your changes as a Pull Request to your upstream repo. I will assign partners to review your PRs.
+* Set up continuous integration
+  1. Set your project up with Travis CI to run the test suite.
+  2. Add comments/docstrings to your code if you haven't already. Revise your code to follow more clear naming practices if needed. Make sure your pull requests pass all your tests!
 
 ## Course Outline
 
@@ -83,23 +121,6 @@ In addition to the shorter assignments, the main focus of the course will be a p
         * If you are comfortable with Git already, you can skip this.
     * Sign up for GitHub (if you didn't already)
 3. Introduction to local version control via Git
-
-#### Homework
-
-* Join the [Slack chat room](https://oregonstate.enterprise.slack.com): workspace `class-me599-003-sp19`.
-* Sign up for GitHub and [set up your profile.](https://github.com/settings/profile)
-* **Due by Friday 12 April:** project proposal. Please submit this via the [`course-projects` repository](https://github.com/SoftwareDevEngResearch/course-projects-s2019) in the GitHub organization (you must have accepted the invitation to the organization), in the `proposals` folder. Name your document `LastName-project-proposal.md`; notice the `.md` file extension, which indicates a Markdown file. ([Markdown](https://guides.github.com/features/mastering-markdown/) is a lightweight plaintext format used commonly for things like READMEs.)
-  * **Submission process**: Use the "Create new file" button in the [`proposals` folder via the web interface](https://github.com/SoftwareDevEngResearch/course-projects-s2019/tree/master/proposals) to submit your proposal as a pull request. (The "Upload files" button will not work, since you do not have write permissions for this repository.) Alternatively, you can:
-    1. Fork the repo into your own account (use the "Fork" button)
-    2. Clone a local copy to your computer
-    3. Add the file in the proposals folder, and commit this addition
-    4. Push the change to your version of the repo (`git push`)
-    5. On your repo at GitHub, submit a new pull request back to the original “upstream” repo.
-  * Please describe the functionality of your intended software project, including who might use it. This includes what the software will actually do—will it simulate something, process data, or something else?—the overall components you expect to design, and expected inputs/outputs.
-  * Most packages should build on some existing methodology, so cite papers as appropriate. Also describe how this builds on any prior work you've done, if relevant. Make it clear how this software package will be different from existing work (yours or otherwise).
-  * You should talk about any packages you expect to depend on (if known).
-  * It is fine if you plan to develop a graphical user interface for your software package, but that should not be the main or primary contribution.
-  * Proposals should be one or two pages long.
 
 ### Lecture 2: Remote Version Control, Licensing & Copyright
 
@@ -135,21 +156,6 @@ In addition to the shorter assignments, the main focus of the course will be a p
     * Useful packages in the Python standard library
     * Useful third-party packages for scientific computing
 
-#### Homework
-
-For next week:
-
-    1. create the repo for your project in the class organization, and fork to your account.
-    2. Clone it locally
-    3. Brainstorm your necessary modules; create the empty files.
-    4. Commit and push your work, then submit to the upstream fork.
-
-<!---
-1. Create (at minimum) three functions in your first module (more is fine!)
-2. Create edge and interior tests for these functions (make sure they pass!)
-3. By Monday, submit your changes as a Pull Request to your upstream repo. I will assign partners to review your PRs.
-
-
 ### Lecture 4: Test Coverage, Continuous Integration, and Documentation
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-CI-documentation>
@@ -165,12 +171,7 @@ For next week:
     * Self-documenting code
     * Docstrings
 
-#### Homework
-
-For Monday 30 April:
-1. Set your project up with Travis CI to run the test suite (may have been completed in class)
-2. Add comments/docstrings to your code if you haven't already. Revise your code to follow more clear naming practices if needed. Make sure your pull requests pass all your tests!
-3. Continue developing your software projects
+<!---
 
 ### Lecture 5: Intro to Julia
 
