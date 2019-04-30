@@ -171,6 +171,30 @@ Complete by **Wednesday 24 April**:
     * Self-documenting code
     * Docstrings
 
+### Lecture 5: Classes and Objects (in Python)
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-classes-objects/>
+
+1. Object oriented programming
+2. Objects
+3. Classes
+  * Instance variables
+  * Methods
+  * Subclasses and inheritance
+
+### Lecture 6: Files and Command-line Inputs in Python
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-files-commandline/>
+
+1. Files in Python
+  * File handle methods
+  * `with` context manager
+2. HDF5
+  * PyTables
+  * Nodes, arrays, tables
+3. Command-line interface
+  * `argparse`
+
 <!---
 
 ### Lecture 5: Intro to Julia
@@ -183,9 +207,6 @@ Introduction to the Julia language, via a live coding demo of a Monte Carlo simu
 
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-parallel-computing>
 
-### Lecture 7: Classes and Objects (in Python)
-
-**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-classes-objects/>
 
 ### Lecture 8: Packaging and Distributing your Software
 
@@ -197,9 +218,6 @@ Link to video: ["Performance Python: Seven Strategies for Optimizing Your Numeri
 
 Link to Jupyter notebook: <https://gist.github.com/jakevdp/256c3ad937af9ec7d4c65a29e5b6d454>
 
-### Lecture 10: Files and Command-line Inputs in Python
-
-**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-files-commandline/>
 
 ### Lecture 11: Open Science, Software Citation, and Reproducibility Best Practices
 
