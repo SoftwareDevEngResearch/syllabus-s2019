@@ -254,6 +254,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 #### Specific Topics
 
+* [Defining main functions in Python](https://realpython.com/python-main-function/)
 * NumPy's [`allclose` function](https://docs.scipy.org/doc/numpy/reference/generated/numpy.allclose.html)
 * ["Inside the Cheeseshop: How Python Packaging Works" (video)](https://www.youtube.com/watch?v=AQsZsgJ30AE)
 * [Python Packaging Guide](https://packaging.python.org)
