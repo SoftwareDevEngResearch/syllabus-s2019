@@ -195,6 +195,18 @@ Complete by **Wednesday 24 April**:
 3. Command-line interface
   * `argparse`
 
+### Lecture 7: Packaging and Distributing your Software
+
+1. Clarification inheritance of class constructors
+2. Brief explanation of `main()` and `__main__`
+3. Packaging for pip and PyPI
+  * `setup.py`
+  * `_version.py`, `CHANGELOG`, and semantic versioning
+4. Packaging with conda
+5. Advanced deploying with Travis CI
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-distribution/>
+
 <!---
 
 ### Lecture 5: Intro to Julia
@@ -208,9 +220,7 @@ Introduction to the Julia language, via a live coding demo of a Monte Carlo simu
 **Lecture slides:** <https://softwaredevengresearch.github.io/lecture-parallel-computing>
 
 
-### Lecture 8: Packaging and Distributing your Software
 
-**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-packaging-distribution/>
 
 ### Lecture 9: Optimizing Numerical Code in Python
 
