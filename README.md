@@ -218,6 +218,22 @@ Complete by **Wednesday 24 April**:
   * `multithreading`
 4. Brief intro to MPI
 
+### Lecture 9: Optimizing Numerical Code in Python
+
+**Link to video:** ["Performance Python: Seven Strategies for Optimizing Your Numerical Code"](https://www.youtube.com/watch?v=zQeYx87mfyw) by [Jake VanderPlas](http://vanderplas.com)
+
+**Link to notebook:** <https://gist.github.com/jakevdp/256c3ad937af9ec7d4c65a29e5b6d454>
+
+Strategies for optimizing numerical code:
+
+1. Line profiling
+2. NumPy
+3. Specialized data structures
+4. Cython
+5. Numba
+6. Dask
+7. Find an existing implementation
+
 <!---
 
 ### Lecture 5: Intro to Julia
@@ -225,17 +241,6 @@ Complete by **Wednesday 24 April**:
 Guest lecture from [Prof. Cory Simon](https://simonensemble.github.io).
 
 Introduction to the Julia language, via a live coding demo of a Monte Carlo simulation of Buffon's Needle: https://simonensemble.github.io/2018/04/11/buffon/
-
-
-
-
-
-
-### Lecture 9: Optimizing Numerical Code in Python
-
-Link to video: ["Performance Python: Seven Strategies for Optimizing Your Numerical Code"](https://www.youtube.com/watch?v=zQeYx87mfyw) by [Jake VanderPlas](http://vanderplas.com)
-
-Link to Jupyter notebook: <https://gist.github.com/jakevdp/256c3ad937af9ec7d4c65a29e5b6d454>
 
 
 ### Lecture 11: Open Science, Software Citation, and Reproducibility Best Practices
