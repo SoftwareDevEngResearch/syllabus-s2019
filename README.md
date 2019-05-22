@@ -103,6 +103,25 @@ Complete by **Wednesday 24 April**:
   1. Set your project up with Travis CI to run the test suite.
   2. Add comments/docstrings to your code if you haven't already. Revise your code to follow more clear naming practices if needed. Make sure your pull requests pass all your tests!
 
+#### Project presentation and report
+
+The majority of your grade in this course will be based on your project, and assessed through
+a final project presentation given on **June 5** and a final project report due **June 12**.
+
+**Presentation:** The presentations will be ~10 minutes each, with up to 5 minutes for questions and switching to the next person.
+The presentation should include motivation for your project, any relevant background/theory, some discussion of
+the software design (functionality, modules, dependencies, etc.), results (which may be preliminary),
+and conclusions/future work/how this fits into your research.
+
+It doesn't matter to me how you make your presentations---Keynote, PowerPoint, Beamer, reveal.js
+(what I've been using for most lectures), whatever. You can use your own laptop, or you can
+send me your presentation ahead of time and use mine. I encourage you to treat this like a
+(relatively short) conference presentation on your work. Feel free to develop your own presentation
+format/style, or use your research group's (if that exists).
+
+**Report:** The report should follow the guidelines described in the [`REPORT_INFO.md`](https://github.com/SoftwareDevEngResearch/course-projects-s2019/blob/master/REPORT-INFO.md) file in the [`course-projects-2019 repo`](https://github.com/SoftwareDevEngResearch/course-projects-s2019);
+reports should be submitted as PDFs in the `reports` directory there by June 12.
+
 ## Course Outline
 
 ### Lecture 1: Introduction, Version Control
