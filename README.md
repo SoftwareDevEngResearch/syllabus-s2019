@@ -304,7 +304,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 #### Other Lists
 
-* [Code School](https://www.codeschool.com/paths/python)
+* [Code Academy: Python 3](https://www.codecademy.com/learn/learn-python-3)
 * [Teach Yourself to Code](http://teachyourselftocode.com/python)
 
 ### Tools
