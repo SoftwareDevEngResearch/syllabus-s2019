@@ -259,6 +259,18 @@ Strategies for optimizing numerical code:
 6. Dask
 7. Find an existing implementation
 
+### Lecture 10: Open Science, Software Citation, and Reproducibility Best Practices
+
+**Lecture slides:** <https://github.com/SoftwareDevEngResearch/syllabus-s2019/blob/gh-pages/lecture-open-citation-repro.pdf>
+
+
+### Lecture 11: Documentation with Sphinx
+
+**Lecture slides:** <https://softwaredevengresearch.github.io/lecture-documentation-sphinx>
+
+1. Getting started with Sphinx
+2. Getting started with Doctr for autodeploying using Travis
+
 <!---
 
 ### Lecture 5: Intro to Julia
@@ -268,9 +280,7 @@ Guest lecture from [Prof. Cory Simon](https://simonensemble.github.io).
 Introduction to the Julia language, via a live coding demo of a Monte Carlo simulation of Buffon's Needle: https://simonensemble.github.io/2018/04/11/buffon/
 
 
-### Lecture 11: Open Science, Software Citation, and Reproducibility Best Practices
 
-**Lecture slides:** <https://github.com/SoftwareDevEngResearch/syllabus/blob/gh-pages/lecture-open-citation-repro.pdf>
 
 --->
 
